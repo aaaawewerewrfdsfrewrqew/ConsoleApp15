@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace CreditCardApp
+namespace ConsoleApp15
 {
     class CreditCard
     {
